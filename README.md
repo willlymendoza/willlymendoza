@@ -1,4 +1,7 @@
-## Hi there 👋
+## Willian Mendoza - Frontend Developer
+
+I am a Frontend Developer focused on React.js, TypeScript, Next.js, Redux, Socket.io, React Context API, Jest, Vitest, React Testing Library, Chakra UI, Git, and Github. I enjoy Frontend development because it's constantly changing for the better helping to create better user experiences.\
+I like to explore new technologies and I'm currently learning TailwindCSS, Docker, and Python.
 
 <!--
 **willlymendoza/willlymendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
